@@ -1,0 +1,4 @@
+<map id="led_patterns.h" name="led_patterns.h">
+<area shape="rect" id="node1" title="CUSTOM CHAR PATTERNS." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$led__draw_8c.html" title="High level functions to draw premade things on the LED Panel." alt="" coords="17,80,108,107"/>
+</map>
